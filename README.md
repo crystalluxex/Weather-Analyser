@@ -11,5 +11,5 @@ This is a numpy/pandas code that analyses weather data files and gives out the d
 .Pandas
 
 #How to run
-Python must be available on the user's phone and can be downloaded and run.
+Python must be available on the user's phone and this code can be downloaded. The file main.py should be run.
 #Author--Crystal5
